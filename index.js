@@ -64,7 +64,7 @@ const Monitor = require("ping-monitor")
 
 keepAlive();
 const monitor = new Monitor({
-  website: "link",
+  website: "https://leondepan.github.io/TokkoBoy/",
   title: "Algo",
   interval: 5
 })
